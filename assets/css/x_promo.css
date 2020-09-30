@@ -1,0 +1,45 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 0em dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  min-width: 10em;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 0.6em;
+  padding: 0.5em 0.5em;
+  position: absolute;
+  z-index: 1000;
+  bottom: 50%;
+  left: 50%;
+  margin-left: -0.6em;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 15%;
+  margin-left: -0.5em;
+  border-width: 0.5em;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.x_promo_laser
+{
+	background-position:center;
+	background-size:cover;
+	cursor:pointer;
+	background-image:url("assets/x_promo/lasergame_logo.png");
+	width:1.5em; 
+    height:1.5em;
+}
