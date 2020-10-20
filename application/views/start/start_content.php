@@ -1,15 +1,15 @@
 <div class="container">
 
-<div class="card shadow-sm text-dark bg-info mb-3" style="width: auto;">
-    <h4 class="card-header text-uppercase"><i class="fas fa-shield-virus"></i> Long time no see</h4>
+<div class="card shadow-sm text-light bg-info mb-3" style="width: auto;">
+    <h4 class="card-header text-uppercase"><i class="fas fa-shield-virus"></i> China-Virus-Update</h4>
     <div class="card-body">
         <p class="card-text text-justify">
-            <b>Bekanntmachung der Stadt Chemnitz vom 19. Oktober 2020</b><br>
-            gültig ab Mittwoch, 21.10.2020            
+            <b>neue Bekanntmachung der Stadt Chemnitz vom 19. Oktober 2020</b><br>
+            <i>gültig ab Mittwoch, 21.10.2020</i>
         </p>
     </div>
     <div class="card-footer d-flex flex-column">
-        <a href="https://www.chemnitz.de/chemnitz/de/unsere-stadt/ordnung-und-sicherheit/allgemeinverfuegungen/20201019_allgemeinverfuegung_infektionsschutzgesetz.html" target="_blank" class="btn btn-success mt-auto">
+        <a href="https://www.chemnitz.de/chemnitz/de/unsere-stadt/ordnung-und-sicherheit/allgemeinverfuegungen/20201019_allgemeinverfuegung_infektionsschutzgesetz.html" target="_blank" class="btn btn-info mt-auto">
         <i class="fas fa-virus-slash"></i> weitere Informationen</a>
     </div>
 </div>
