@@ -68,7 +68,7 @@
                                     <td>€ 22,90</td>
                                 </tr>
                                 <tr>
-                                    <td scope="row">Sonntag</td>
+                                    <td scope="row">Sonntags, Feiertags und Vorfeiertags</td>
                                     <td>bis 16:00 Uhr</td>
                                     <td>€ 17,90</td>
                                 </tr>
@@ -83,9 +83,7 @@
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">
-                        Maximal 8 Personen pro Bahn. An Vorfeiertagen gelten die Preise vom Freitag. Wenn ein Feiertag auf
-                        einen Vorfeiertag fällt, gelten automatisch die Preise von Freitag. An Feiertagen gelten die
-                        regulären Preise des aktuellen Wochentags.
+                        Maximal 8 Personen pro Bahn.
                     </small>
                 </div>
             </div>
