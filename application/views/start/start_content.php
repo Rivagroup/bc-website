@@ -1,22 +1,16 @@
 <div class="container">
 
-    
-<div class="card shadow-sm text-white bg-success mb-3" style="width: auto;">
-    <h4 class="card-header text-uppercase"><i class="fas fa-info-circle"></i> Long time no see</h4>
+<div class="card shadow-sm text-light bg-info mb-3" style="width: auto;">
+    <h4 class="card-header text-uppercase"><i class="fas fa-shield-virus"></i> China-Virus-Update</h4>
     <div class="card-body">
         <p class="card-text text-justify">
-            Wir sind wieder da! Ab dem <b>21.05.2020</b> öffnen wir wieder unsere Pforten. Natürlich gibt es auch bei uns entsprechende Hygieneregeln zu beachten.
-            Reservierungen sind wieder ab Montag, den <b>18.05.2020</b>, möglich. Wir freuen uns Euch endlich wieder begrüßen zu dürfen.
+            <b>neue Bekanntmachung der Stadt Chemnitz vom 19. Oktober 2020</b><br>
+            <i>gültig ab Mittwoch, 21.10.2020</i>
         </p>
-		<p>
-			<b>Vereinsbowlern ermöglichen wir bereits schon ab Dienstag das Training.</b>
-		</p>
     </div>
     <div class="card-footer d-flex flex-column">
-        <a href="<?=base_url("#")?>" class="btn btn-success disabled mt-auto"><i
-                class="fas fa-info-circle"></i> weitere Informationen</a>
-        <a href="<?=base_url("buchung")?>" class="btn btn-success mt-auto"><i class="far fa-calendar-plus"></i> Jetzt
-            Buchen!</a>
+        <a href="https://www.chemnitz.de/chemnitz/de/unsere-stadt/ordnung-und-sicherheit/allgemeinverfuegungen/20201019_allgemeinverfuegung_infektionsschutzgesetz.html" target="_blank" class="btn btn-info mt-auto">
+        <i class="fas fa-virus-slash"></i> weitere Informationen</a>
     </div>
 </div>
 <hr />
