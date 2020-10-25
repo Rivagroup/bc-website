@@ -65,10 +65,11 @@
             </div>
         </div>
     </div>
-    <div class="mx-auto bg-danger text-white container-fluid rounded p-3">
-        Online Buchung gerade nicht möglich. Sie können Ihren Termin gern telefonisch unter
-        <a class="badge badge-primary" href="tel:+4937133423340">
-            <i class="fas fa-phone"></i> 0371 334 2 334 0
-        </a> vereinbaren.
+    <div class="jumbotron jumbotron-fluid mt-4 rounded bg-primary text-light">
+        <div class="container">
+            <h1 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h1>
+            <p class="lead">Eine Stunde Bowling plus eine weitere Aktivität für 5 Kinder / Teilnehmer</p>
+            <a href="https://spielcenter-chemnitz.de/kombi/#bowling" target="_blank" class="btn btn-lg btn-block btn-warning" role="button">weitere Informationen</a>
+        </div>
     </div>
 </div>
