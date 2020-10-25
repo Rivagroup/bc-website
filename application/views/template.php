@@ -75,6 +75,9 @@
                 <li class="nav-item">
                 <a class="nav-link" href="https://shop.spielcenter-chemnitz.de/index.php?id_category=17&controller=category" target="_blank">Shop</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<?= base_url('hygienekonzept'); ?>">Hygienekonzept</a>
+                </li>
             </ul>
         </div>
        <?= $x_promotion ?>
