@@ -1,13 +1,14 @@
 <div class="container">
-    <div class="jumbotron jumbotron-fluid bg-light rounded">
+    <div class="jumbotron jumbotron-fluid bg-light rounded mb-3">
         <div class="container text-center">
             <h1 class="display-4">Herzlich Willkommen bei</h1>
             <img src="<?= base_url('assets/bowling logo_final.svg'); ?>" class="img-fluid" alt="Bowling Chemnitz" />
             <p class="lead">Mit 22 Bahnen die größte Anlage weit und breit.</p>
         </div>
     </div>
+    <a href ="https://spielcenter-chemnitz.de/silvester/" target="_blank"><img src="<?=base_url("assets/header/slider_silvester2020.png")?>" alt="Silvester 2020/21" class="img-fluid"></a>
 
-    <section>
+    <section class="mt-3">
         <article>
             <header>
                 <h4>Unsere Vorteile auf einen Blick</h4>
