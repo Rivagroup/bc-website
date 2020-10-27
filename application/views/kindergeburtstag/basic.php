@@ -17,16 +17,11 @@
         </div>
         <div class="card-footer">
             <p class="display-3 text-center"><b>49 €</b></p>
-            <a class="btn btn-lg btn-block btn-primary disabled" href="#"><i class="far fa-calendar-plus"></i> jetzt Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="<?= base_url('buchung/kindergeburtstagBasic'); ?>"><i class="far fa-calendar-plus"></i> online Buchen</a>
         </div>
     </div>
     <p>
         <small class="text-muted">Zzgl. 3,00 € für jede weitere Begleitperson bei allen Kindergeburtstagspaketen</small>
     </p>
-    <div class="mx-auto bg-danger text-warning container-fluid rounded">
-        Online Buchung gerade nicht möglich. Sie können Ihren Termin gern telefonisch unter
-        <a class="badge badge-primary" href="tel:+4937123627835">
-            <i class="fas fa-phone"></i> 0371 236 278 35
-        </a> vereinbaren.
-    </div>
 </div>
