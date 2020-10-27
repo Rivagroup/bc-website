@@ -26,8 +26,8 @@
         </div>
         <div class="card-footer">
             <p class="display-3 text-center"><b>89 €</b></p>
-                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch Buchen</a>
-                <a class="btn btn-lg btn-block btn-primary" href="<?= base_url('buchung/kindergeburtstagXXL'); ?>"><i class="far fa-calendar-plus"></i> online Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="<?= base_url('buchung/kindergeburtstagXXL'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
         </div>
     </div>
     <p>
