@@ -14,7 +14,8 @@
     <meta name="pragma" content="<?= $cache ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/bc.bootstrap.min.css'); ?>">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" crossorigin="anonymous">
-    <link href="<?= base_url('assets/favicon.png'); ?>" rel="icon" type="image/png" />
+    <link href="<?= base_url('assets/favicon.png'); ?>" rel="icon" type="image/png"/>
+    <link href="<?= base_url('assets/favicon.png'); ?>" rel="apple-touch-icon">
 	<?= $meta_postal; ?>
     <?= $meta_og; ?>
     <?= $meta_itemprop; ?>
@@ -27,7 +28,7 @@
 <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
         <a class="navbar-brand" href="<?= base_url(); ?>">
-            <img src="<?= base_url('assets/favicon.png'); ?>" width="32" height="32" class="d-inline-block align-bottom" alt="">
+            <img src="<?= base_url('assets/favicon.png'); ?>" width="32" height="32" class="d-inline-block align-bottom" alt="Bowling Chemnitz Logo">
             Bowling Chemnitz
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
