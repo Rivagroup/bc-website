@@ -17,7 +17,7 @@ class Datenschutz extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" - Datenschutz";
+		$data['title'].=" | Datenschutz";
 		return($data);
 		}
 		

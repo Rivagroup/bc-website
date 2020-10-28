@@ -17,7 +17,7 @@ class Angebote extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" - Angebote";
+		$data['title'].=" | Angebote";
 		return($data);
 		}
 		

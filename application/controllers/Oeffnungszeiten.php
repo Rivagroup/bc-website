@@ -17,7 +17,7 @@ class Oeffnungszeiten extends MY_ContentController {
 				{
 				 $data[$meta]=$daten;
 				}
-        $data['title'] .= ' - Öffnungszeiten';
+        $data['title'] .= ' | Öffnungszeiten';
         $data['main_content'] = 'oeffnungszeiten/oeffnungszeiten_content';
         $this->load->view('template', $data);
     }

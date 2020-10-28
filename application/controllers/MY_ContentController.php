@@ -6,7 +6,7 @@ class MY_ContentController extends CI_Controller {
     public function __construct() {
         parent::__construct();
 		$this->meta = array();
-		$this->meta['title'] = 'Bowling Chemnitz | einfach umwerfend';
+		$this->meta['title'] = 'Bowling Chemnitz';
 		$this->meta['main_content'] = 'start/start_content';
 		$this->meta['description'] = 'Das Bowling Center für Chemnitz/Sachsen ✓ Günstig bowlen auf der größten Bowlingbahn in Chemnitz ☆, Bereits über 20000 zufriedene Bowling - Gäste!';
 		

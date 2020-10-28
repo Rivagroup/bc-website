@@ -17,7 +17,7 @@ class Hygienekonzept extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" - Hygienekonzept";
+		$data['title'].=" | Hygienekonzept";
 		return($data);
 		}
 		

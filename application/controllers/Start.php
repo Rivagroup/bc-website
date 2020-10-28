@@ -18,7 +18,7 @@ class Start extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}
-        $data['title'] .= ' - Willkommen';
+        $data['title'] .= ' | einfach umwerfend!';
         $data['main_content'] = 'start/start_content';
         $this->load->view('template', $data);
     }

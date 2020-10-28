@@ -17,7 +17,7 @@ class Buchung extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" - Buchung";
+		$data['title'].=" | Buchung";
 		return($data);
 		}
 			

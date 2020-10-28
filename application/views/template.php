@@ -48,19 +48,19 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="<?= base_url('kindergeburtstag'); ?>">Kindergeburtstag</a>
                         <a class="dropdown-item" href="<?= base_url('angebote/schuelerpakete'); ?>">Schülerpakete</a>
-                        <a class="dropdown-item disabled" href="familybowlspecial">Family Bowl Special</a>
-                        <a class="dropdown-item disabled" href="junggesellenabschied">Junggesellenabschied</a>
+                        <!-- a class="dropdown-item disabled" href="familybowlspecial">Family Bowl Special</a -->
+                        <!-- a class="dropdown-item disabled" href="junggesellenabschied">Junggesellenabschied</a -->
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item disabled" href="greatbowldeals">Great Bowl Deals</a>
-                        <a class="dropdown-item disabled" href="bowlnbrunch">Bowl & Brunch</a>
-                        <a class="dropdown-item disabled" href="vrinner">Sonntags Bowling Vrinner</a>
-                        <a class="dropdown-item disabled" href="jackpotbowling">Jackpot Bowling</a>
+                        <!-- a class="dropdown-item disabled" href="greatbowldeals">Great Bowl Deals</a -->
+                        <!-- a class="dropdown-item disabled" href="bowlnbrunch">Bowl & Brunch</a -->
+                        <!-- a class="dropdown-item disabled" href="vrinner">Sonntags Bowling Vrinner</a -->
+                        <!-- a class="dropdown-item disabled" href="jackpotbowling">Jackpot Bowling</a-->
                         <a class="dropdown-item" href="<?= base_url('angebote/partyraeume'); ?>">Partyräume</a>
                     </div>
                 </li>
-                <li class="nav-item">
+                <!-- li class="nav-item">
                     <a class="nav-link disabled" href="vereine">Vereine</a>
-                </li>
+                </li-->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Hausliga</a>
                     <div class="dropdown-menu">

@@ -17,7 +17,7 @@ class Hausliga extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" - Hausliga";
+		$data['title'].=" | Hausliga";
 		return($data);
 		}
 		

@@ -17,7 +17,7 @@ class Agb extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}
-        $data['title'].= '- Allgemeine Geschäftsbedingungen';
+        $data['title'].= ' | AGB';
         $data['main_content'] = 'agb/agb_content';
         $this->load->view('template', $data);
     }

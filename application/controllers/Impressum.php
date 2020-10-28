@@ -17,7 +17,7 @@ class Impressum extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" - Impressum";
+		$data['title'].=" | Impressum";
 		return($data);
 		}
 		

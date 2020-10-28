@@ -17,7 +17,7 @@ class Preise extends MY_ContentController {
 				{
 				 $data[$meta]=$daten;
 				}
-        $data['title'] .= '- Preise';
+        $data['title'] .= ' | Preise';
         $data['main_content'] = 'preise/preise_content';
         $this->load->view('template', $data);
     }
