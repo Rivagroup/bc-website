@@ -2,13 +2,13 @@
     <section>
         <article>
             <header>
-                <h4>Schülerpakete</h4>
+                <h1 class="h4">Schülerpakete</h1>
             </header>
             <div class="card-deck">
                 <div class="card">
                     <img class="card-img-top" src="https://dummyimage.com/640x240/ff7b00/ffffff.png&text=Schülerpaket 1" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Schülerpacket 1</h5>
+                        <h2 class="card-title h5">Schülerpacket 1</h2>
                         <p class="card-text">
                             <b>6,90 €</b>
                             <ul>
@@ -23,7 +23,7 @@
                 <div class="card">
                     <img class="card-img-top" src="https://dummyimage.com/640x240/ff7b00/ffffff.png&text=Schülerpaket 2" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Schülerpacket 2</h5>
+                        <h2 class="card-title h5">Schülerpacket 2</h2>
                         <p class="card-text">
                             <b>7,90 €</b>
                             <ul>
@@ -39,7 +39,7 @@
                 <div class="card">
                     <img class="card-img-top" src="https://dummyimage.com/640x240/ff7b00/ffffff.png&text=Schülerpaket 3" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Schülerpacket 3</h5>
+                        <h2 class="card-title h5">Schülerpacket 3</h2>
                         <p class="card-text">
                             <b>8,90 €</b>
                             <ul>

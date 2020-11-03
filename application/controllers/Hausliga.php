@@ -17,7 +17,6 @@ class Hausliga extends MY_ContentController {
 			{
 			 $data[$meta]=$daten;
 			}	
-		$data['title'].=" | Hausliga";
 		return($data);
 		}
 		
@@ -25,6 +24,7 @@ class Hausliga extends MY_ContentController {
     public function index() 
 	{
 		$data=$this->meta4all($this->meta);
+		$data['title'].=" | Hausliga";
         $data['main_content'] = 'hausliga/info';
         $this->load->view('template', $data);
     }
@@ -32,14 +32,14 @@ class Hausliga extends MY_ContentController {
     public function teams() {
 		
 		$data=$this->meta4all($this->meta);
-        $data['title'] = ' - die Teams';
+		$data['title'].=" | Hausligateams";
         $data['main_content'] = 'hausliga/teams';
         $this->load->view('template', $data);
     }
 
     public function ergebnisse() {
 		$data=$this->meta4all($this->meta);
-        $data['title'] .= ' - die Ergebnisse';
+		$data['title'].=" | Hausligaergebnisse";
         $data['main_content'] = 'hausliga/ergebnisse';
         $this->load->view('template', $data);
     }

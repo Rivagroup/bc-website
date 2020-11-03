@@ -1,10 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Unbenanntes Dokument</title>
-</head>
-
-<body>
-</body>
-</html>
+<div class="container">
+    <section>
+        <article>
+                <div class="card">
+                    <img class="card-img-top" src="<?= base_url('assets/header/jackpotbowling.jpg'); ?>" alt="Partyräume">
+                    <div class="card-body">
+                        <h1 class="card-title h5">Jackpot-Bowling</h1>
+                        <p class="card-text">
+                            Jackpot-Bowling ist toll
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        &nbsp;
+                    </div>
+                </div>
+        </article>
+    </section>
+</div>

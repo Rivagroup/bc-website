@@ -1,20 +1,10 @@
 <div class="container">
-    <div class="jumbotron jumbotron-fluid bg-dark text-light rounded">
-        <div class="container">
-            <h1 class="display-4">Speisekarte</h1>
-            <p class="lead">
-                Unsere aktuelle Speise- und Getränkekarte steht Ihnen hier zum download bereit.
-                <a class="btn btn-block btn-primary" href="<?= base_url('assets/speisekarte.pdf'); ?>">
-                    <i class="fas fa-file-download"></i> Speisekarte herunterladen
-                </a>
-            </p>
-        </div>
-    </div>
+    <h1 class="d-none">Preise und Speisekarte</h1>
     <section>
         <article>
             <div class="card">
                 <div class="card-header">
-                    <h4 class="card-title"><i class="fas fa-bowling-ball"></i> Open Bowling</h4>
+                    <h2 class="card-title h4"><i class="fas fa-bowling-ball"></i> Open Bowling</h2>
                 </div>
                 <div class="card-body">
                     <div class="card-text">
@@ -94,9 +84,9 @@
         <article>
             <div class="card">
                 <div class="card-header">
-                    <h4 class="card-title">
+                    <h2 class="card-title h4">
                         <i class="fas fa-users"></i> Vereins- und Ligaspieler
-                    </h4>
+                    </h2>
                 </div>
                 <div class="card-body">
                     <div class="card-text">
@@ -136,9 +126,9 @@
         <article>
             <div class="card">
                 <div class="card-header">
-                    <h4 class="card-title">
+                    <h2 class="card-title h4">
                         <i class="fas fa-socks"></i> Sonstiges
-                    </h4>
+                    </h2>
                 </div>
                 <div class="card-body">
                     <div class="card-text">
@@ -180,4 +170,15 @@
             </small>
         </article>
     </section>
+    <div class="jumbotron jumbotron-fluid bg-dark text-light rounded">
+        <div class="container">
+            <h2 class="display-4">Speisekarte</h2>
+            <p class="lead">
+                Unsere aktuelle Speise- und Getränkekarte steht Ihnen hier zum download bereit.
+                <a class="btn btn-block btn-primary" href="<?= base_url('assets/speisekarte.pdf'); ?>">
+                    <i class="fas fa-file-download"></i> Speisekarte herunterladen
+                </a>
+            </p>
+        </div>
+    </div>
 </div>

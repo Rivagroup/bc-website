@@ -1,12 +1,12 @@
 <div class="container">
     <section>
-        <h4>Angebote</h4>
+        <h1 class="h4">Angebote und Specials</h1>
         <div class="card-columns">
 
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/schuelerpakete.jpg'); ?>" alt="Schülerpakete" />
                 <div class="card-body">
-                    <h5 class="card-title">Schülerpakete</h5>
+                    <h2 class="card-title h5">Schülerpakete</h2>
                     <div class="card-text">
                         <ul>
                             <li>Schülerpaket 1 – 6,90 €</li>
@@ -25,7 +25,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/kindergeburtstag.jpg'); ?>" alt="Kindergeburtstag" />
                 <div class="card-body">
-                    <h5 class="card-title"><i class="fas fa-birthday-cake"></i> Kindergeburtstag</h5>
+                    <h2 class="card-title h5"><i class="fas fa-birthday-cake"></i> Kindergeburtstag</h2>
                     <div class="card-text">
                         <ul class="list-group">
                             <li class="list-group-item list-group-item-info text-center"><a class="btn btn-sm btn-block btn-info" href="<?= base_url('kindergeburtstag/basic'); ?>"><i class="fas fa-birthday-cake"></i> <b>Basic</b> ab 49 €</a></li>
@@ -44,7 +44,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/familybowlspecial.jpg'); ?>" alt="Family Bowl Special" />
                 <div class="card-body">
-                    <h5 class="card-title">Family Bowl Special</h5>
+                    <h2 class="card-title h5">Family Bowl Special</h2>
                     <div class="card-text">
                         <b>
                             Dienstag bis Donnerstag bis 19:00 Uhr<br />
@@ -71,7 +71,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/partyraeume.jpg'); ?>" alt="Partyräume" />
                 <div class="card-body">
-                    <h5 class="card-title">Partyräume</h5>
+                    <h2 class="card-title h5">Partyräume</h2>
                     <div class="card-text">
                         Für Firmenveranstaltungen, Familienfeiern, Geburtstage etc. haben wir die
                         passenden Räumlichkeiten. Zusammen mit der Dekoration, Speisen und Getränken machen wir Ihre
@@ -86,7 +86,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/junggesellenabschied.jpg'); ?>" alt="Junggesellenabschied" />
                 <div class="card-body">
-                    <h5 class="card-title">Junggesellenabschied (m/w/d)</h5>
+                    <h2 class="card-title h5">Junggesellenabschied (m/w/d)</h2>
                     <div class="card-text">
                         <b>
                             Unser Angebot<br />
@@ -112,7 +112,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/greatbowldeals.jpg'); ?>" alt="Great Bowl Deals" />
                 <div class="card-body">
-                    <h5 class="card-title">Great Bowl Deals</h5>
+                    <h2 class="card-title h5">Great Bowl Deals</h2>
                     <div class="card-text">
                         <b>
                             1 Std. Bowling + Nachos mit Dip - plus:
@@ -134,7 +134,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/jackpotbowling.jpg'); ?>" alt="Jackpot Bowling" />
                 <div class="card-body">
-                    <h5 class="card-title">Jackpot Bowling</h5>
+                    <h2 class="card-title h5">Jackpot Bowling</h2>
                     <div class="card-text">
                         <b>
                             Reserviert frühzeitig Eure Bahn(en) zum Jackpot-Bowling!
@@ -160,7 +160,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/sonntagsbowlingvrinner.jpg'); ?>" alt="Sonntags Bowling Vrinner" />
                 <div class="card-body">
-                    <h5 class="card-title">Sonntags Bowling Vrinner</h5>
+                    <h2 class="card-title h5">Sonntags Bowling Vrinner</h2>
                     <div class="card-text">
                         <b>Von Vesper Richtung Dinner - wir nennen's einfach Vrinner !</b>
                         <br /><br />
@@ -179,7 +179,7 @@
             <div class="card">
                 <img class="card-img-top" src="<?= base_url('assets/header/bowlnbrunch.jpg'); ?>" alt="BowlnBrunch" />
                 <div class="card-body">
-                    <h5 class="card-title">Bowl'n'Brunch</h5>
+                    <h2 class="card-title h5">Bowl'n'Brunch</h2>
                     <div class="card-text">
                         <b>
                             10:00 bis 14:00 Uhr<br />

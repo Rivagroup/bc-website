@@ -1,8 +1,9 @@
 <div class="container">
+    <h1 class="d-none">Kinderfeier und Kindergeburtstags-Angebote</h1>
     <div class="card-deck">
         <div class="card bg-info text-white">
             <div class="card-header">
-                <h4 class="card-title"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> Basic</h4>
+                <h2 class="card-title h4"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> Basic</h2>
             </div>
             <div class="card-body">
                 <div class="card-text">
@@ -25,7 +26,7 @@
         </div>
         <div class="card bg-warning text-dark">
             <div class="card-header">
-                <h4 class="card-title"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> Maxi</h4>
+                <h2 class="card-title h4"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> Maxi</h2>
             </div>
             <div class="card-body">
                 <div class="card-text">
@@ -46,7 +47,7 @@
         </div>
         <div class="card bg-success text-white">
             <div class="card-header">
-                <h4 class="card-title"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> XXL</h4>
+                <h2 class="card-title h4"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> XXL</h2>
             </div>
             <div class="card-body">
                 <div class="card-text">
@@ -70,7 +71,7 @@
     </div>
     <div class="jumbotron jumbotron-fluid mt-4 rounded bg-primary text-light">
         <div class="container">
-            <h1 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h1>
+            <h2 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h2>
             <p class="lead">Eine Stunde Bowling plus eine weitere Aktivität für 5 Kinder / Teilnehmer</p>
             <a href="https://spielcenter-chemnitz.de/kombi/#bowling" target="_blank" class="btn btn-lg btn-block btn-warning" role="button">weitere Informationen</a>
         </div>

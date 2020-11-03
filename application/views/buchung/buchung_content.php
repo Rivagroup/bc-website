@@ -1,7 +1,7 @@
 <div class="container">
     <div class="card">
         <div class="card-header">
-            <h4 class="card-title"><?=$pageHeadline; ?></h4>
+            <h1 class="card-title h4"><?=$pageHeadline; ?></h1>
         </div>
         <div class="card-body">
             <div class="embed-responsive embed-responsive-1by1">

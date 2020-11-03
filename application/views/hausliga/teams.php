@@ -1,7 +1,7 @@
 <div class="container">
     <div class="card">
         <div class="card-header">
-            <h4 class="card-title">Hausliga</h4>
+            <h1 class="card-title h4">Bowling Chemnitz Hausligateams</h1>
         </div>
         <div class="card-body">
             <div class="card-text">

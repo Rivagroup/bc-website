@@ -1,7 +1,7 @@
 <div class="container">
     <div class="card bg-success text-white">
         <div class="card-header">
-            <h4 class="card-title"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> XXL</h4>
+            <h1 class="card-title h4"><small><i class="fas fa-birthday-cake"></i> Kindergeburtstag</small> XXL</h1>
         </div>
         <div class="card-body">
             <div class="card-text">
