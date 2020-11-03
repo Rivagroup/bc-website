@@ -14,7 +14,7 @@
         <img src="<?= base_url('assets/header/Corona.jpg'); ?>" class="card-img-top" alt="China-Virus">
         <div class="card-body">
         <h4 class="card-title text-uppercase"><i class="fas fa-viruses"></i> COVID-19 INFORMATIONEN</h4>
-            <div class="card-text text-justify text-white">           
+            <div class="card-text text-justify text-white">
             <?php
                 $url = 'https://spielcenter-chemnitz.de/corona.html';
                 $content = file_get_contents($url);
