@@ -30,7 +30,6 @@
             <a href="<?=base_url("hygienekonzept")?>" class="btn btn-danger mt-auto"><i class="fas fa-shield-virus"></i> aktuelles Hygiene-Konzept</a>
         </div>
     </div>
-</div>
 
     <section class="mt-3">
         <article>
